@@ -1,2 +1,3 @@
-# Robot-Spider-
-Robot autónomo para WRO
+# The-Ghost
+Robotics team The Ghost
+# WRO 2024
