@@ -1,28 +1,26 @@
 # The-Ghost
 Equipo de robotica The Ghost.
-
-WRO-2024
-
+# WRO-2024
 The Ghost es un robot programado para ...
 
-Detalles del equipo: 
+**Detalles del equipo:**
 
-Nombre del equipo: Alpha Team.
+**Nombre del equipo:** Alpha Team.
 
-Pais: Panama, Panama Oeste, Distrito de Capira.
+**Pais:** Panama, Panama Oeste, Distrito de Capira.
 
-Miembros del equipo: Isaac Perez, Syrenia Vasquez y Yanelis Perez.
+**Miembros del equipo:** Isaac Perez, Syrenia Vasquez y Yanelis Perez.
 
-Coche:
+**Coche:**
 
-Material de ingenieria:
+**Material de ingenieria:**
 
 Este repositorio contiene los detalles de la construccion del robot Ghost, el cual esta participando de la competencia WRO-FUTURE ENGINEERS EN LA COMPETENCIA MUNDIAL WRO- PANAMA 2024. Los detalles incluyen:
 
-Fotos del equipo:
+**Fotos del equipo:**
 
-Fotos del vehiculo:
+**Fotos del vehiculo:**
 
-Bosquejo:
+**Bosquejo:**
 
-Diagrama de conectividad logica:
+**Diagrama de conectividad logica:**
