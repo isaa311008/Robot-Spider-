@@ -7,7 +7,7 @@ The Ghost es un robot programado para ...
 
 Detalles del equipo: 
 
-Nombre del equipo:Alpha Team.
+Nombre del equipo: Alpha Team.
 
 Pais: Panama, Panama Oeste, Distrito de Capira.
 
