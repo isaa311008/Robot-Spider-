@@ -1,6 +1,7 @@
 # The-Ghost
 The Ghost robotics team.
-#WRO-2024
+# WRO-2024
+
 The Ghost is a robot programmed to...
 
 **Equipment details:**
