@@ -1,4 +1,4 @@
-# The-Ghost
+# The-Alpha
 The Ghost robotics team.
 # WRO-2024
 
